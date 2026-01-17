@@ -1,41 +1,37 @@
-# Zelion
+# Zelion — Official Whitepaper v1.0
 
-Zelion is an infrastructure-first energy validation network focused on real-world deployment, deterministic processing, and long-term system reliability.
+🌍 **Infrastructure-First Network for Real-World Energy Validation**
 
-Unlike speculative Web3 or hype-driven token models, Zelion prioritizes physical infrastructure, verifiable data integrity, and hardware-level validation mechanisms.
+This repository contains the official public references for the Zelion project.
 
----
+## 📄 Whitepaper (Public)
 
-## Project Overview
+The official Zelion Whitepaper v1.0 is available at the link below:
 
-Zelion introduces a validation framework designed to bridge real-world energy systems with decentralized infrastructure (DePIN) and blockchain-based coordination.
+👉 https://www.canva.com/design/DAG-KP6c2eo/HHpx7Jho-qznUClozECWvg/view
 
-Core principles include:
+## 🔍 Project Overview
 
-- Hardware-first architecture  
-- Deterministic data validation  
-- Structured data integrity  
-- Infrastructure-grade deployment  
+Zelion is an infrastructure-first network focused on real-world energy systems, verifiable data integrity, and long-term validation mechanisms.
 
-The system is built for long-term operation across renewable energy, industrial infrastructure, and system-level integrations.
+Unlike speculative blockchain models, Zelion prioritizes physical infrastructure, edge-level validation, and decentralized coordination grounded in real-world deployment.
 
----
+## 🧱 Core Focus Areas
+- Infrastructure-first architecture  
+- Energy system validation  
+- Verifiable and tamper-resistant data  
+- Long-term system alignment  
+- Real-world deployment readiness  
 
-## Documentation
-👉 [Download Whitepaper (v1.0)](https://raw.githubusercontent.com/zeliontech/zelion-whitepaper/177dd54f43532c897a9378c1b9b6de4af1717f7b/Zelion_Whitepaper_v1.0.pdf)
-
-
----
-
-## Project Status
-
-Zelion is currently in the early infrastructure and documentation phase.
-
-Technical validation, system architecture refinement, and pilot infrastructure deployments are ongoing.
+## 🌐 Links
+- Website: https://www.zeliontech.com
+- Whitepaper: https://www.canva.com/design/DAG-KP6c2eo/HHpx7Jho-qznUClozECWvg/view
 
 ---
 
-## Disclaimer
+⚠️ **Disclaimer**
 
-Zelion is an infrastructure and technology-focused initiative.  
-This repository is provided for technical documentation and informational purposes only and does not constitute financial or investment advice.
+This repository is provided for informational and technical documentation purposes only.  
+It does not constitute financial, investment, or legal advice.
+
+© Zelion — All rights reserved.
