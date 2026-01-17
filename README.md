@@ -4,11 +4,15 @@
 
 This repository contains the official public references for the Zelion project.
 
-## 📄 Whitepaper (Public)
+## Official Whitepaper
 
-The official Zelion Whitepaper v1.0 is available at the link below:
+📄 **Zelion Whitepaper v1.0 (Public Release)**
 
-👉 https://www.canva.com/design/DAG-KP6c2eo/HHpx7Jho-qznUClozECWvg/view
+Official GitHub release:
+👉 https://github.com/zeliontech/zelion-whitepaper/releases/tag/v1.0
+
+Direct PDF download:
+👉 https://github.com/zeliontech/zelion-whitepaper/releases/download/v1.0/Zelion_Whitepaper_v1.0.pdf
 
 ## 🔍 Project Overview
 
@@ -25,7 +29,8 @@ Unlike speculative blockchain models, Zelion prioritizes physical infrastructure
 
 ## 🌐 Links
 - Website: https://www.zeliontech.com
-- Whitepaper: https://www.canva.com/design/DAG-KP6c2eo/HHpx7Jho-qznUClozECWvg/view
+- Whitepaper (GitHub Release): https://github.com/zeliontech/zelion-whitepaper/releases/tag/v1.0
+
 
 ---
 
