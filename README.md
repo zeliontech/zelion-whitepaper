@@ -41,4 +41,12 @@ Unlike speculative blockchain models, Zelion prioritizes **physical infrastructu
 This repository is provided **for informational and technical documentation purposes only**.  
 Nothing herein constitutes financial, investment, or legal advice.
 
-© Zelion — All rights reserved.
+## License
+
+© 2026 ZelionTech. All rights reserved.
+
+This whitepaper and its contents are proprietary and may not be copied,
+reproduced, distributed, or used for commercial purposes without prior
+written permission from ZelionTech.
+
+For licensing or partnership inquiries: info@zeliontech.com
