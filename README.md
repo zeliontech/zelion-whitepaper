@@ -22,9 +22,8 @@ The system is built for long-term operation across renewable energy, industrial 
 ---
 
 ## Documentation
+👉 [Download Whitepaper (v1.0)](https://raw.githubusercontent.com/zeliontech/zelion-whitepaper/177dd54f43532c897a9378c1b9b6de4af1717f7b/Zelion_Whitepaper_v1.0.pdf)
 
-
-👉 [Download Whitepaper (v1.0)](https://raw.githubusercontent.com/zeliontech/zelion-whitepaper/main/Zelion_Whitepaper_v1.0.pdf)
 
 ---
 
