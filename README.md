@@ -1,22 +1,20 @@
 # Zelion — Official Whitepaper v1.0
 
-🌍 **Infrastructure-First Network for Real-World Energy Validation**
+**Infrastructure-First Network for Real-World Energy Validation**
 
-This repository hosts the **official public whitepaper** for the **Zelion** project.
+This repository hosts the **official and public whitepaper** of the **Zelion** project.
 
 ---
 
-## 📄 Official Whitepaper (Public Release)
+## 📄 Official Whitepaper
 
-**Zelion Whitepaper v1.0**
+- **Canonical GitHub Repository**  
+  https://github.com/zeliontech/zelion-whitepaper
 
-🔗 **GitHub Release (canonical link):**  
-https://github.com/zeliontech/zelion-whitepaper/releases/tag/v1.0
+- **Direct PDF Download**  
+  https://github.com/zeliontech/zelion-whitepaper/releases/download/v1.0/Zelion_Whitepaper_v1.0.pdf
 
-⬇️ **Direct PDF download:**  
-https://github.com/zeliontech/zelion-whitepaper/releases/download/v1.0/Zelion_Whitepaper_v1.0.pdf
-
-> These are the **only valid and authoritative links** for the Zelion Whitepaper v1.0.
+> These are the **only official and authoritative links** for the Zelion Whitepaper v1.0.
 
 ---
 
@@ -28,7 +26,7 @@ Unlike speculative blockchain models, Zelion prioritizes **physical infrastructu
 
 ---
 
-## 🎯 Core Focus Areas
+## 🎯 Core Focus
 
 - Infrastructure-first architecture  
 - Energy system validation  
@@ -38,18 +36,9 @@ Unlike speculative blockchain models, Zelion prioritizes **physical infrastructu
 
 ---
 
-## 🌐 Links
-
-- Website: https://www.zeliontech.com  
-- GitHub Organization: https://github.com/zeliontech  
-
----
-
 ## ⚠️ Disclaimer
 
-This repository and its contents are provided **for informational and technical documentation purposes only**.  
+This repository is provided **for informational and technical documentation purposes only**.  
 Nothing herein constitutes financial, investment, or legal advice.
-
----
 
 © Zelion — All rights reserved.
