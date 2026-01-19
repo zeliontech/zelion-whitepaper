@@ -43,10 +43,8 @@ Nothing herein constitutes financial, investment, or legal advice.
 
 ## License
 
-© 2026 ZelionTech. All rights reserved.
+This whitepaper is licensed under proprietary terms.
 
-This whitepaper and its contents are proprietary and may not be copied,
-reproduced, distributed, or used for commercial purposes without prior
-written permission from ZelionTech.
+See the [LICENSE](LICENSE) file for full details.
 
 For licensing or partnership inquiries: info@zeliontech.com
