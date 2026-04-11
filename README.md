@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zeliontech/zelion-whitepaper/main/zelion-logo.png" width="140"/>
+</p>
 # Zelion — Official Whitepaper v1.0
 
 **Infrastructure-First Network for Real-World Energy Validation**
